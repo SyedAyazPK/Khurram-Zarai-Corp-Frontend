@@ -1,0 +1,79 @@
+const [categories,setCategories]= useState([
+    {
+      id:"1",
+      title:"Pestisides",
+      image:"https://www.niehs.nih.gov/health/assets/images/pesticide.jpg",
+    },
+    {
+      id:"2",
+      title:"Seeds",
+      image:"https://nmdeptag.nmsu.edu/media/seed_fsf.jpg",
+    },
+    {
+      id:"3",
+      title:"Spray Mechinary",
+      image:"https://static.farmtario.com/wp-content/uploads/2022/07/16162453/SG_machinery_see-and-spray-ultimate_cmyk.jpeg",
+    },
+    {
+      id:"4",
+      title:"Zarai Ajnas",
+      image:"https://i0.wp.com/atkdir.com/wp-content/uploads/2019/12/arshad5c.jpg?w=515&ssl=1",
+    },
+    {
+      id:"5",
+      title:"Aggriculture accessories",
+      image:"https://2.imimg.com/data2/BP/QR/MY-1707857/agricultural-equipments-accessories-500x500.jpg",
+    },
+    {
+      id:"6",
+      title:"Tunnel Farming",
+      image:"https://profit.pakistantoday.com.pk/wp-content/uploads/2019/06/IMG_1226.jpg",
+    },
+  ]);
+  const [companies,setCompanies]= useState([
+    {
+      id:"1",
+      title:"FMC",
+      image:"https://kissanghar.pk/assets/company/28191520200812160.jpg",
+    },
+    {
+      id:"2",
+      title:"AL NOOR ARGO CHEMICALS",
+      image:"https://kissanghar.pk/assets/company/27591320200828248.jpg",
+    },
+    {
+      id:"3",
+      title:"ICI PAKISTAN",
+      image:"https://kissanghar.pk/assets/company/50191920200918768.jpg",
+    },
+    {
+      id:"4",
+      title:"BAYER",
+      image:"https://kissanghar.pk/assets/company/01341820200918440.jpg",
+    },
+    {
+      id:"5",
+      title:"GREEN GOLD PVT LTD",
+      image:"https://kissanghar.pk/assets/company/43361820200918399.jpg",
+    },
+    {
+      id:"6",
+      title:"PAYONEER",
+      image:"https://kissanghar.pk/assets/company/46371820200918961.jpg",
+    },
+    {
+      id:"7",
+      title:"ARYSTRA",
+      image:"https://kissanghar.pk/assets/company/16371820200918119.jpg",
+    },
+    {
+      id:"8",
+      title:"ARGUIAM ENTERPRISES",
+      image:"https://kissanghar.pk/assets/company/40241720200927278.jpg",
+    },
+    {
+      id:"9",
+      title:"EXIN",
+      image:"https://kissanghar.pk/assets/company/58511620200930566.jpg",
+    },
+  ]);
